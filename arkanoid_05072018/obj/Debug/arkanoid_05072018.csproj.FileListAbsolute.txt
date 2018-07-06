@@ -1,0 +1,11 @@
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\bin\Debug\arkanoid_05072018.exe.config
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\bin\Debug\arkanoid_05072018.exe
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\bin\Debug\arkanoid_05072018.pdb
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.csprojAssemblyReference.cache
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.Properties.Resources.resources
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.csproj.GenerateResource.cache
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.csproj.CoreCompileInputs.cache
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.exe
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.pdb
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.FormMenu.resources
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\arkanoid_05072018\arkanoid_05072018\obj\Debug\arkanoid_05072018.FormGame.resources
